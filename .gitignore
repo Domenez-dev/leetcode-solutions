@@ -1,0 +1,10 @@
+# Binaries
+*.exe
+*.out
+
+# Vendor directory
+vendor/
+
+# IDE files
+.idea/
+.vscode/
