@@ -1,7 +1,10 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems written in Go.
+# My LeetCode Solutions
 
+This repository contains my solutions to various LeetCode problems across different difficulty levels.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/domenez-dev?theme=catppuccinMocha&font=Nokora&ext=heatmap)
 ## Structure
 
 The solutions are categorized by difficulty:
